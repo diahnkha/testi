@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+}
+
+.bg-bottom{
+  position: absolute;
+  right: 0;
+  top: 12%;
+  z-index: -1;
+}
+
+.bg-top{
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+h1{
+  color: #511f50;
+  font-size: 2.5rem;
+  width: 30%;
+  line-height: 1;
+  margin: 11% auto 10px 10%;
+  font-family: 'Spartan', sans-serif;
+  text-align: left;
+}
+
+h2{
+  font-size: 0.75rem;
+  margin-left: 10%;
+  width: 24rem;
+  color: #aea2ad;
+  line-height: 1.5;
+  margin-top: 0;
+  text-align: left;
+}
+
+h3{
+  font-size: 0.625rem;
+  color: #511f50;
+}
+.rated{
+  background-color: #f7f2f8;
+  height: 40px;
+  width: 330px;
+  position: absolute;
+  border-radius: 5px;
+  padding-top: 5px;
+}
+
+.rated1{
+  top: 25%;
+  left: 50%;
+}
+
+.rated2{
+  top: 34%;
+  left: 55%;
+}
+
+.rated3{
+  top: 43%;
+  left: 60%;
+}
+
+.warna{
+  color: #FFA500;
+}
+
+.testi{
+  background-color: #511f50;
+  height: 160px;
+  width: 280px;
+  border-radius: 5px;
+  padding: 15px;
+  padding-bottom: 0;
+  position: absolute;
+}
+
+.foto{
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+  float: left;
+  margin: 10px 20px;
+}
+
+h4{
+  font-size: 0.75rem;
+  line-height: 0;
+  text-align: left;
+  color: hsl(333, 80%, 67%);
+}
+
+.w{
+  color: white;
+}
+
+.pad{
+  padding: 5px;
+  text-align: left;
+  font-size: 0.75rem;
+  color: white;
+  font-weight: lighter;
+  line-height: 1.5;
+}
+
+.padd{
+  margin-bottom: 30px;
+}
+.posisi1{
+  bottom: 80px;
+  left: 10%;
+}
+
+.posisi2{
+  bottom: 70px;
+  left: 35.5%;
+  width: 300px;
+}
+
+.posisi3{
+  bottom: 60px;
+  right: 15%;
+}
