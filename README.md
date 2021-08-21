@@ -1,2 +1,2 @@
 # testi
-just dekstop view
+just dekstop view not yet responsive
